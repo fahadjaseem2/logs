@@ -1,0 +1,21 @@
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=82.77.200.128 user=root 
+rhost=  
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
+rhost=211.137.205.253 user=root 
